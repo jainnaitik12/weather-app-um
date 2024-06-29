@@ -17,8 +17,3 @@ This is an advanced weather application that allows users to fetch and display w
 - JavaScript
 - OpenWeatherMap API
 
-## Setup and Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/weather-app.git
-   cd weather-app
